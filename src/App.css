@@ -1,0 +1,35 @@
+body {background-color:#2d2d2d;}
+form{
+    width: 50%;
+    margin: 40px auto;
+    color:#fff;
+    border-left: 3px solid #ed1f24;
+    padding: 20px;
+}
+input{
+    height: 25px;
+    border-radius: 4px;
+    font-size: 20px;
+}
+h1{
+    margin-left: 260px;
+    color: white;
+
+}
+::placeholder {
+    color: black;
+    text-align: center;
+  }
+h3{
+    font-size: 30px;
+    padding-left: 100px;
+}
+input[type="submit"]{
+    margin-left: 40px;
+    height: 40px;
+font-size: 20px;
+background-color:#FFC312;
+color: black;
+border: 1px solid black;
+cursor: pointer;
+}
